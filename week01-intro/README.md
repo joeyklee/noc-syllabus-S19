@@ -31,10 +31,26 @@ Exmaple project: showing all the concepts learned in this course
 - filiplazovic.github.io/aijs2
 - the partices have learned how to avoid the circles through evolution
 
+Goal of class:
+- try to post something each week
+
+Books:
+- Emergence: https://www.amazon.com/Emergence-Connected-Brains-Cities-Software/dp/0684868768
+- Computational Beauty of Natre: https://www.amazon.com/Computational-Beauty-Nature-Explorations-Adaptation/dp/0262561271
+- mathematics and physics for programmers: https://www.amazon.com/Mathematics-Physics-Programmers-Programming-Kodicek/dp/1584503300
+
+
+Part 2 of session:
+- Conditional Design, Conditional design manifesto, sol lewitt
+- Interesting projects
+- Workflows
+- Randomness, probability, and random walk
+
+
 
 
 ## Class Intro / Overview
-* [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
+* [Related and Past Projects](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Related-and-Past-Projects)
 
 ## Development Environments?
 * [Processing](http://www.processing.org)
@@ -68,7 +84,7 @@ It's probably not realistic for you to consume everything that is below. Pick an
 
 ## Assignment
 * Accept invite to class mailing list (let me know if you prefer a different e-mail address.)
-* [Assignment](https://github.com/shiffman/NOC-S19/wiki/Homework-1).
+* [Assignment](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Assignment-1).
 
 ## Web Editor Example Links
 
