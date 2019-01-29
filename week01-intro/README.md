@@ -1,5 +1,38 @@
 # Introduction
 
+Notes: 
+- This course is about the concepts of simulation natural systems implemented in code.
+- This course is inspired by James Tu's course in 2003. See acknowledgements in Nature of Code Book. At 2003, it was run in macromedia director. James's course focused more on physics simulation.
+- We want to in this course add "intellligence", emotional resonance of hte real world in our software.
+- ref: Philip Galanter - Generative Art Systems
+- the goals:
+  - have more time to practice programming
+  - put into your toolset, physics simulation and broadly AI concepts can be put into graphics
+- this class was first run in 2008!
+
+The class in 3 parts:
+- Physics Engine/similation:
+  - vectors ==> `createVector()`
+    - in 2D space --> the difference betwnee 2 points in space that can be presented by an arrow between those two points.
+    - velocity is a vector! ==> 
+    - acceleration is a vector!
+    - A path is a vector! ==> 
+    - A SVG ==> scalable vector graphic! 
+  - forces, and newton's law ==> `F = M * A`
+    - gravity, repulsion, attraction
+  - trigonometry, relation betwen angles and sides ==> `sin()` `cos()`, `tan()` etc.
+- Complexity or complex systems:
+  - "more than the sum of it's parts" - e.g.: an ant colony: individual ants have simple behaviors, but together as a whole, they can do big things
+- Intelligence:
+  - genetic algorithms
+  - neuroevolution, neural network
+
+Exmaple project: showing all the concepts learned in this course 
+- filiplazovic.github.io/aijs2
+- the partices have learned how to avoid the circles through evolution
+
+
+
 ## Class Intro / Overview
 * [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
 
