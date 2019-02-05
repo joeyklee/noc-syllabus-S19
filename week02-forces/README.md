@@ -10,7 +10,55 @@ It's probably not realistic for you to consume everything that is below. Pick an
     + Rune will be in March 8th, Friday ==> talk
     + designsystems.international
 - workflow:
-    + 
+    + quick look at git and github workflow ==> `git config` etc etc
+    + how to configure VS Code
+    + live-server: https://www.npmjs.com/package/live-server // for autoreload
+    + p5-manager: https://github.com/chiunhau/p5-manager
+- Quick code review:
+    + `floor()`
+    + `ceil()`
+    + `round()`
+- Assignment Reviews:
+    + Billy noise example
+    + Rui ==> random walk in 3D
+    + see Ayal's plate break
+- Perlin Noise and random:
+    + set seed 
+    + these are deterministic
+    + gene kogan post: http://genekogan.com/code/p5js-perlin-noise/
+    + e.g. perlin noise chaser ==> by offsetting the starting x and y of the noise() you can get an effect of chasing a feature.
+    + perlin noise wood example
+    + see perlin2D
+    + see vector flow fields
+        * the "arrows" tell a particle where to go
+    + morgan, architect, mississippi river 
+    + `noiseSeed()` sets the type of noise generation you get.
+    + leaves-random-walk.herokuapp.com
+        * using t-SNE to sort by similarity and using perlin noise in 2d space to select the image
+- Random walks + higher dimensional spaces ==> what are productive or creative uses of random walks to move through latent space or hyperdimensional spaces often used in ML.
+    + golan levin - circle morphing ==> https://github.com/CodingTrain/website/blob/master/_GuestTutorials/7-golan-levin-circle-morphing.md // https://www.youtube.com/watch?v=mvgcNOX8JGQ
+- Diffusion limited aggregation (DLA) // https://www.youtube.com/watch?v=uBy3Uouy76Q
+- RDP algorithm
+- Discussing es6 classes vis-a-vis p5 vectors:
+    + vectors have and angle and magnitude
+    + conceptuall a postion is a vector from 0,0 which is why p5.vector has an x and y
+- Euler integration:
+    + velocity affects the position
+    + acceleration affects the velocity
+    ```
+    velocity.add(acceleration)
+    position.add(velocity)
+    ```
+- `p5.Vector.random2D()`
+    + creates a unit vector with random vals b/w 0 and 1 for x and y
+- `p5.Vector.fromAngle( radians(angle degrees) )` ==> get a vector from an angle! wow!
+- the essence of calculus - youtube
+    + looking at rate of change  (e.g. ▵x / ▵t)
+- Other types of integration:
+    + e.g. Verlet integration 
+- Force = Mass * Acceleration
+    + in early examples, we might consider that we have a world where mass == 1
+
 
 ## Nature of Code Chapter 1: vectors
 * [Kadenze videos: p5.js](https://www.kadenze.com/courses/the-nature-of-code/info) -- Session 1
