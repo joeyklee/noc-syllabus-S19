@@ -2,6 +2,16 @@
 
 It's probably not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
 
+## Notes
+
+- Adding forces!
+- magic book plug ==> https://github.com/magicbookproject/magicbook
+- programming design systems, rune madsen: https://programmingdesignsystems.com/
+    + Rune will be in March 8th, Friday ==> talk
+    + designsystems.international
+- workflow:
+    + 
+
 ## Nature of Code Chapter 1: vectors
 * [Kadenze videos: p5.js](https://www.kadenze.com/courses/the-nature-of-code/info) -- Session 1
 * [Chapter 1 text: Processing](http://natureofcode.com/book/chapter-1-vectors/)

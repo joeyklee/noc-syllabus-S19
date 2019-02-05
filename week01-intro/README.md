@@ -42,7 +42,21 @@ Books:
 
 Part 2 of session:
 - Conditional Design, Conditional design manifesto, sol lewitt
-- Interesting projects
+- Interesting projects:  https://github.com/nature-of-code/noc-syllabus-S19/wiki/Related-and-Past-Projects
+  - everest pipkin ==> everest-pipkin.com // https://twitter.com/mothgenerator?lang=en
+    - moth generator, fictional moths, fixtional designs
+    - > think about procedural design 
+  - Robert hodgin: http://roberthodgin.com/
+    - magnetosphere: https://vimeo.com/135858
+  - Mark Stock: http://markjstock.com/
+  - Mudtub: Tom gerhardt
+    -  http://tomgerhardt.com/
+ -  Zurkow and Shiffman:
+    -  https://vimeo.com/37383446
+-  Matterjs
+   -  http://brm.io/matter-js/
+   -  nice for quick physis needs!
+   -  > in this course we will want ot build our own physics engines
 - Workflows
 - Randomness, probability, and random walk
 
