@@ -66,7 +66,7 @@ Part 2 of session:
 ## Class Intro / Overview
 * [Related and Past Projects](https://github.com/nature-of-code/noc-syllabus-S19/wiki/Related-and-Past-Projects)
 
-## Development Environments?
+## Development Environments
 * [Processing](http://www.processing.org)
 * [p5.js](http://p5js.org)
    * [web editor](https://editor.p5js.org/)
@@ -83,13 +83,11 @@ It's probably not realistic for you to consume everything that is below. Pick an
 * [Video + code: Walker p5.js](https://thecodingtrain.com/CodingChallenges/052-random-walk.html)
 * [Video + code: Random Walker with Vectors p5.js: Levy Flight](https://thecodingtrain.com/CodingChallenges/053-random-walk-levy.html)
 * [Perlin Noise Videos -- mostly p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD)
+* [Perlin Noise tutorial in p5.js](http://genekogan.com/code/p5js-perlin-noise/) by Gene Kogan
 * [Nature of Code Introduction text: Processing](http://natureofcode.com/book/introduction/)
 * [Nature of Code Introduction videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YVljJvFRCyRM6mmF5wMPeE)
 * [Processing code examples](https://github.com/nature-of-code/The-Nature-of-Code-Examples/tree/master/introduction)
 * [p5.js code examples](https://github.com/nature-of-code/The-Nature-of-Code-Examples-p5.js/tree/master/chp00_introduction)
-
-### In-class code
-* TBD
 
 ## Supplemental Reading
 * [Mathematics and Physics for Programmers](http://amzn.to/2Fhooq7) Chapter 5
