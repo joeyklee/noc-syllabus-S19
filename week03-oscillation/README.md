@@ -1,6 +1,34 @@
 # Trigonometry and Oscillation
 It's probably not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
 
+## Notes:
+
+- Fourier Transforms:
+  - they transfor any signal to: 
+    - phase
+    - frequency
+    - amplitude
+  - See: fourier series
+- See: https://explorabl.es/
+- See: Nicky Case
+- Sin() and Cos() are always 1
+- check dampening for forces
+- Friction & drag
+  - friction is a contact force
+    - kinetic
+    - static
+  - drag
+    - is always in the opposite direction of velocity
+    - you can always multiply velocity.mult(0.99) ==> just to remove some velocity since there's usually always some decay irl
+
+
+- polar coordinates:
+  - x = r * cos(Θ)
+  - y = r * sin(Θ)
+
+- Foucault pendulum
+- 
+
 ## Tutorials and Resources
 * [Chapter 3 text: Processing](http://natureofcode.com/book/chapter-3-oscillation/)
 * [Chapter 3 videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bR4BcLjHHTopXItSjRA7yG)
